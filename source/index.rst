@@ -6,7 +6,7 @@
 Welcome to zehir's documentation!
 =================================
 
-Merhaba hoşgeldiniz :D
+Merhaba hoşgeldiniz :D Artık değişiklik yapıldı
 
 Contents:
 
