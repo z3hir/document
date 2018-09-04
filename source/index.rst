@@ -6,6 +6,8 @@
 Welcome to zehir's documentation!
 =================================
 
+Merhaba hoşgeldiniz :D
+
 Contents:
 
 .. toctree::
